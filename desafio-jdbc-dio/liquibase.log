@@ -1,0 +1,39 @@
+abr. 15, 2025 2:24:59 PM liquibase.changelog
+INFO: Reading resource: db/changelog/migrations/db.changelog-202504110907.sql
+abr. 15, 2025 2:24:59 PM liquibase.changelog
+INFO: Reading resource: db/changelog/migrations/db.changelog-202504110936.sql
+abr. 15, 2025 2:24:59 PM liquibase.changelog
+INFO: Reading resource: db/changelog/migrations/db.changelog-202504111031.sql
+abr. 15, 2025 2:24:59 PM liquibase.changelog
+INFO: Reading resource: db/changelog/migrations/db.changelog-202504111042.sql
+abr. 15, 2025 2:24:59 PM liquibase.changelog
+INFO: Reading from desafio_dio.databasechangelog
+Database is up to date, no changesets to execute
+abr. 15, 2025 2:24:59 PM liquibase.changelog
+INFO: Reading from desafio_dio.databasechangelog
+
+UPDATE SUMMARY
+Run:                          0
+Previously run:               4
+Filtered out:                 0
+-------------------------------
+Total change sets:            4
+
+abr. 15, 2025 2:24:59 PM liquibase.util
+INFO: UPDATE SUMMARY
+abr. 15, 2025 2:24:59 PM liquibase.util
+INFO: Run:                          0
+abr. 15, 2025 2:24:59 PM liquibase.util
+INFO: Previously run:               4
+abr. 15, 2025 2:24:59 PM liquibase.util
+INFO: Filtered out:                 0
+abr. 15, 2025 2:24:59 PM liquibase.util
+INFO: -------------------------------
+abr. 15, 2025 2:24:59 PM liquibase.util
+INFO: Total change sets:            4
+abr. 15, 2025 2:24:59 PM liquibase.util
+INFO: Update summary generated
+abr. 15, 2025 2:24:59 PM liquibase.lockservice
+INFO: Successfully released change log lock
+abr. 15, 2025 2:24:59 PM liquibase.command
+INFO: Command execution complete
